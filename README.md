@@ -88,7 +88,7 @@ gpupdate /force
 | State  | Screenshot                                                             |
 | ------ | ---------------------------------------------------------------------- |
 | Before |  <img width="1000" alt="image" src="https://i.imgur.com/gGAI51n.png">  |
-| After  |  <img width="1000" alt="image" src="https://i.imgur.com/gGAI51n.png">  |
+| After  |  <img width="1000" alt="image" src="https://i.imgur.com/NvxHxIo.png">  |
 
 ---
 
