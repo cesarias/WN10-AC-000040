@@ -68,8 +68,8 @@ gpupdate /force
 * **Script Name:** `remediate-WN10-AC-000040.ps1`
 * **Screenshot of script execution:** `images/powershell-script-run.png`
 * **Rescan Result:** Compliant
-<img width="1000" alt="image" src="">
-<img width="1000" alt="image" src="">
+<img width="1000" alt="image" src="https://i.imgur.com/XuKwL3O.png">
+<img width="1000" alt="image" src="https://i.imgur.com/NvxHxIo.png">
 
 ---
 
@@ -85,10 +85,10 @@ gpupdate /force
 
 ## 🔄 Before & After Comparison
 
-| State  | Screenshot                     |
-| ------ | ------------------------------ |
-| Before | `images/initial-scan-fail.png` |
-| After  | `images/post-script-pass.png`  |
+| State  | Screenshot                                                             |
+| ------ | ---------------------------------------------------------------------- |
+| Before |  <img width="1000" alt="image" src="https://i.imgur.com/gGAI51n.png">  |
+| After  |  <img width="1000" alt="image" src="https://i.imgur.com/gGAI51n.png">  |
 
 ---
 
