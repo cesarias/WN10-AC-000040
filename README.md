@@ -50,8 +50,8 @@ Remediate the finding `WN10-AC-000040` by enabling the Microsoft password comple
 
 * Set policy back to **Disabled** or **Not Defined**
 * Rescan to confirm the finding returns
+<img width="1000" alt="image" src="https://i.imgur.com/1aPpCoN.png">
 <img width="1000" alt="image" src="">
-
 ---
 
 ### 4. PowerShell Remediation
@@ -68,7 +68,8 @@ gpupdate /force
 * **Script Name:** `remediate-WN10-AC-000040.ps1`
 * **Screenshot of script execution:** `images/powershell-script-run.png`
 * **Rescan Result:** Compliant
-<img width="1000" alt="image" src="https://i.imgur.com/iFYAiny.png">
+<img width="1000" alt="image" src="">
+<img width="1000" alt="image" src="">
 
 ---
 
