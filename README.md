@@ -219,6 +219,9 @@ wmic useraccount where name='YourUserName' set PasswordExpires=True
 
 ---
 
+
+<img width="1000" alt="image" src="<img width="2302" height="1364" alt="image" src="https://i.imgur.com/TrJmhjg.png">
+
 ## 📆 Notes
 
 * Use **Tenable/Nessus** to verify that the STIG `WN10-AC-000040` is marked compliant.
