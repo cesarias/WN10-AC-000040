@@ -221,6 +221,7 @@ wmic useraccount where name='YourUserName' set PasswordExpires=True
 
 
 <img width="1000" alt="image" src="<img width="2302" height="1364" alt="image" src="https://i.imgur.com/TrJmhjg.png">
+<img width="1000" alt="image" src="<img width="2302" height="1364" alt="image" src="https://i.imgur.com/GzGE8Bz.png">
 
 ## 📆 Notes
 
